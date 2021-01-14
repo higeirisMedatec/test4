@@ -1,5 +1,5 @@
-Code
-blablabla
+// Code
+int blablabla (void)
 {
 	test ();
 	return 0
