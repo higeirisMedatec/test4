@@ -1,0 +1,6 @@
+Code
+blablabla
+{
+	test ();
+	return 0
+}
